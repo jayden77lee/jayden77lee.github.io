@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>
+VTEQ Computer Solutions - IT Solutions Brisbane | Web Development Brisbane | Computer Repair Brisbane</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://www.vtcs.com.au/xmlrpc.php" />
+<!--[if lt IE 9]>
+	<script src="http://www.vtcs.com.au/wp-content/themes/interface-pro/js/html5.js"></script>
+	<![endif]-->
+<link rel="shortcut icon" href="http://www.vtcs.com.au/wp-content/uploads/favicon.ico" type="image/x-icon" />
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="VTEQ computer solutions provide IT service, computer repair in Brisbane and Gold coast. Guarantee Quality Work at Best Price EVER !!!"/>
+<link rel="canonical" href="http://www.vtcs.com.au/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="VTEQ Computer Solutions - IT Solutions Brisbane | Web Development Brisbane | Computer Repair Brisbane" />
+<meta property="og:description" content="VTEQ computer solutions provide IT service, computer repair in Brisbane and Gold coast. Guarantee Quality Work at Best Price EVER !!!" />
+<meta property="og:url" content="http://www.vtcs.com.au/" />
+<meta property="og:site_name" content="VTEQ Computer Solutions - Brisbane | IT Solutions Brisbane | Web Development Brisbane | Computer Repair Brisbane" />
+<script type="application/ld+json">{ "@context": "http://schema.org", "@type": "WebSite", "url": "http://www.vtcs.com.au/", "potentialAction": { "@type": "SearchAction", "target": "http://www.vtcs.com.au/?s={search_term}", "query-input": "required name=search_term" } }</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="VTEQ Computer Solutions - Brisbane | IT Solutions Brisbane | Web Development Brisbane | Computer Repair Brisbane &raquo; Feed" href="http://www.vtcs.com.au/feed/" />
+<link rel="alternate" type="application/rss+xml" title="VTEQ Computer Solutions - Brisbane | IT Solutions Brisbane | Web Development Brisbane | Computer Repair Brisbane &raquo; Comments Feed" href="http://www.vtcs.com.au/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.vtcs.com.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.7"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='map_std-css'  href='http://www.vtcs.com.au/wp-content/plugins/google-maps-ready/modules/gmap/css/map.css?ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='siteorigin-panels-front-css'  href='http://www.vtcs.com.au/wp-content/plugins/siteorigin-panels/css/front.css?ver=2.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cntctfrm_stylesheet-css'  href='http://www.vtcs.com.au/wp-content/plugins/contact-form-plugin/css/style.css?ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='otw-portfolio-css'  href='http://www.vtcs.com.au/wp-content/plugins/otw-portfolio-light/css/otw-portfolio.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://www.vtcs.com.au/wp-content/plugins/revslider/rs-plugin/css/settings.css?rev=4.6.0&#038;ver=4.8.7' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='spu-public-css-css'  href='http://www.vtcs.com.au/wp-content/plugins/popups/public/assets/css/public.css?ver=1.8' type='text/css' media='all' />
+<link rel='stylesheet' id='interface_style-css'  href='http://www.vtcs.com.au/wp-content/themes/interface-pro/style.css?ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='interface-responsive-css'  href='http://www.vtcs.com.au/wp-content/themes/interface-pro/css/responsive.css?ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery_fancybox_style-css'  href='http://www.vtcs.com.au/wp-content/themes/interface-pro/css/jquery.fancybox-1.3.4.css?ver=4.8.7' type='text/css' media='all' />
+<link rel='stylesheet' id='interface_google_font-css'  href='http://fonts.googleapis.com/css?family=PT+Sans%3A400%2C700italic%2C700%2C400italic&#038;ver=4.8.7' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.vtcs.com.au/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.vtcs.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.vtcs.com.au/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js?rev=4.6.0&#038;ver=4.8.7'></script>
+<script type='text/javascript' src='http://www.vtcs.com.au/wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js?rev=4.6.0&#038;ver=4.8.7'></script>
+<script type='text/javascript' src='http://www.vtcs.com.au/wp-content/themes/interface-pro/js/backtotop.js?ver=4.8.7'></script>
+<script type='text/javascript' src='http://www.vtcs.com.au/wp-content/themes/interface-pro/js/scripts.js?ver=4.8.7'></script>
+<script type='text/javascript' src='http://www.vtcs.com.au/wp-content/themes/interface-pro/js/jquery.custom.js?ver=4.8.7'></script>
+<script type='text/javascript' src='http://www.vtcs.com.au/wp-content/themes/interface-pro/js/jquery.easing.1.3.js?ver=1'></script>
+<script type='text/javascript' src='http://www.vtcs.com.au/wp-content/themes/interface-pro/js/jquery.quicksand.js?ver=1'></script>
+<link rel='https://api.w.org/' href='http://www.vtcs.com.au/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.vtcs.com.au/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.vtcs.com.au/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.7" />
+<link rel='shortlink' href='http://www.vtcs.com.au/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.vtcs.com.au/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.vtcs.com.au%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.vtcs.com.au/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.vtcs.com.au%2F&#038;format=xml" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-57091508-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<script class="ai1ec-widget-placeholder" data-widget="ai1ec_agenda_widget" data-events_seek_type="events" data-show_subscribe_buttons="false">
+  (function(){var d=document,s=d.createElement('script'),
+  i='ai1ec-script';if(d.getElementById(i))return;s.async=1;
+  s.id=i;s.src='http://www.vtcs.com.au/?ai1ec_js_widget';
+  d.getElementsByTagName('head')[0].appendChild(s);})();
+</script><!-- VTEQ Computer Solutions - Brisbane | IT Solutions Brisbane | Web Development Brisbane | Computer Repair Brisbane Custom CSS Styles -->
+<style type="text/css" media="screen">
+a.more-link {
+   border: 2px solid #63c6ae;
+   border-radius: 10px;
+}
+
+.post-featured-image {
+    width: 400px;
+    float: left;
+    padding: 0 10px;
+    text-align: center;
+}
+
+footer.entry-meta {
+	border-top: 0px solid rgba(0, 0, 0, 0.1);
+}
+
+.widget_testimonial .testimonial-image img {
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
+}
+.widget_ourclients ul li {
+margin: 10px 10px;
+}
+.widget_ourclients .container {
+max-width:1800px;
+}
+#content .custom-gallery-title, .custom-gallery-title a {
+font-weight: normal;
+font-size: 13px;
+text-transform: none;
+}
+
+#site-title img {
+margin-top: -20px;
+width: 230px;
+}
+
+#comments {
+display: none;
+}
+
+p{
+font-size: 14px;
+}
+
+#main {
+padding: 30px 0 10px;
+}
+
+#linkgoto a{
+color:  grey;
+font-size: 15px;
+font-family:  arial;
+}
+
+#linkgoto a:hover{
+color:  #63c6ae;
+}
+
+.widget_service p {
+text-align:left;
+}
+
+#secondary #recent-posts-2 ul>li {
+list-style-type: disc;
+}
+
+#primary {
+width:72%;
+}
+
+#secondary {
+width:24%;
+}
+
+@media only screen and (max-width: 1078px) {
+#primary, #secondary {
+width: 100%;
+}
+}
+
+input[type="submit"].search-submit {
+padding: 10px;
+}
+
+#access li {
+	margin: 0 0 0 25px;
+}
+
+hr {
+	border-width: 2px 0 0;
+	margin: 0 0;
+}
+
+.cst-3d {
+   display: none;
+}
+
+
+figure.post-featured-image img {
+  border: 2px solid #ccc;
+  border-radius: 5px;
+}
+
+figure.post-featured-image span.arrow {
+ display: none;
+}
+
+#content ul.thumbs-list {
+   margin: 0 0 0 0!important;
+}
+</style>
+        <style type="text/css">
+.featured-text {
+	display: none;
+}
+</style>
+
+                <style type="text/css">
+ 
+   
+ /* Top Info Bar */
+.info-bar {
+ background-color: #cccccc;
+}
+            #colophon .info-bar {
+ background-color:#cccccc;
+}
+    /* Site Generator */
+#site-generator {
+ background-color:#63c6ae;
+}
+                              /* Top Info Bar */
+.info-bar, .info-bar .info ul li a {
+ color: #3d3d3d;
+}
+                /* Footer Widget Titles */
+#colophon .widget-title {
+ color: #1e73be;
+}
+    /* Footer Content */
+#colophon .widget-wrap, #colophon .widget ul li a, #site-generator .copyright a {
+ color: #4f4f4f;
+}
+    /* Bottom Info Bar */
+#colophon .info-bar, #colophon .info-bar .info ul li a {
+ color: #3d3d3d;
+}
+    /* Site Generator */
+#site-generator .copyright {
+ color: #3d3d3d;
+}
+ </style>
+        		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+<!-- BEGIN GADWP v4.9.3.2 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-57091508-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<!-- END GADWP Universal Tracking -->
+
+</head>
+
+<body class="home page-template page-template-page-templates page-template-page-template-business page-template-page-templatespage-template-business-php page page-id-31 full-width-template business-layout">
+	  						<div class="wrapper">
+                     <header id="branding" >
+  <div class="info-bar">
+		<div class="container clearfix"><div class="info clearfix">
+											<ul><li class="phone-number"><a title=" Call Us " href="tel:0733233232">0733233232</a></li><li class="email"><a title=" Mail Us " href="mailto:info@vtcs.com.au">info@vtcs.com.au</a></li><li class="address">Block B Suite 1 / 3 Zamia St, Sunnybank QLD 4109</li></ul>
+		</div><!-- .info --><div class="social-profiles clearfix">
+					<ul><li class="facebook"><a href="https://www.facebook.com/vteqcs" title="VTEQ Computer Solutions - Brisbane | IT Solutions Brisbane | Web Development Brisbane | Computer Repair Brisbane on Facebook" target="_blank"></a></li>
+				</ul>
+				</div><!-- .social-profiles --></div>
+<!-- .container -->
+</div>
+<!-- .info-bar -->
+<div class="hgroup-wrap">
+  <div class="container clearfix">
+    <section id="site-logo" class="clearfix">
+            <h1 id="site-title"> <a href="http://www.vtcs.com.au/" title="VTEQ Computer Solutions &#8211; Brisbane | IT Solutions Brisbane | Web Development Brisbane | Computer Repair Brisbane" rel="home"> <img src="http://www.vtcs.com.au/wp-content/uploads/VTEQlogo_smaill2.jpg" alt="VTEQ Computer Solutions &#8211; Brisbane | IT Solutions Brisbane | Web Development Brisbane | Computer Repair Brisbane"> </a> </h1>
+          </section>
+    <!-- #site-logo -->
+    <button class="menu-toggle">Responsive Menu</button>
+    <section class="hgroup-right">
+      <nav id="access" class="clearfix"><ul class="nav-menu"><li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://www.vtcs.com.au/about-us/">About Us</a></li>
+<li id="menu-item-302" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-302"><a href="http://www.vtcs.com.au/managed-it-services/">Our Service</a>
+<ul  class="sub-menu">
+	<li id="menu-item-1555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1555"><a href="http://www.vtcs.com.au/managed-it-services/">managed IT Services</a></li>
+</ul>
+</li>
+<li id="menu-item-680" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-680"><a href="http://www.vtcs.com.au/blog/">Blog</a></li>
+<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="http://www.vtcs.com.au/partner/">Our Clients</a></li>
+<li id="menu-item-59" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-59"><a href="http://www.vtcs.com.au/contact/">Contact</a></li>
+</ul></nav><!-- #access -->      <div class="search-toggle"></div>
+      <!-- .search-toggle -->
+      <div id="search-box" class="hide">
+        
+<form action="http://www.vtcs.com.au/" method="get" class="searchform clearfix">
+  <label class="assistive-text">
+    Search  </label>
+  <input type="search" placeholder="Search" class="s field" name="s">
+  <input type="submit" value="Search" class="search-submit">
+</form>
+<!-- .search-form -->
+        <span class="arrow"></span> </div>
+      <!-- #search-box --> 
+    </section>
+    <!-- .hgroup-right --> 
+  </div>
+  <!-- .container --> 
+</div>
+<!-- .hgroup-wrap -->
+
+<section class="slogan-wrap"><div class="container"><div class="slogan">&quot;BUSINESS IT SOLUTIONS, WEB DESIGN and all of IT issues&quot;<span>VTEQ works for you as your staff member and guarantees Quality Work at Best Price EVER !!!</span></div><!-- .slogan --></div><!-- .container --></section><!-- .slogan-wrap -->
+		<section class="featured-slider"><div class="slider-cycle"><div class="slides displayblock"><figure><a href="http://www.vtcs.com.au/it-supports/" title="IT support services" ><img alt="IT support services" src="http://www.vtcs.com.au/wp-content/uploads/web_design_miami62.jpg" ></a></figure><div class="container">
+				<article class="featured-text"><div class="featured-title"><a href="http://www.vtcs.com.au/it-supports/" title="IT support services" >IT support services</a></div><!-- .featured-title --><div class="featured-content">We look after your IT systems and manage your network so you can focus on your business</div><!-- .featured-content --></article><!-- .featured-text --></div></div><!-- .slides --><div class="slides displaynone"><figure><a href="http://www.vtcs.com.au/website-demo/" title="Website Design &amp; Development" ><img alt="Website Design &amp; Development" src="http://www.vtcs.com.au/wp-content/uploads/slide-2.jpg" ></a></figure><div class="container">
+				<article class="featured-text"><div class="featured-title"><a href="http://www.vtcs.com.au/website-demo/" title="Website Design &amp; Development" >Website Design & Development</a></div><!-- .featured-title --><div class="featured-content">Professional, Creative Website Design for Business at best prices.</div><!-- .featured-content --></article><!-- .featured-text --></div></div><!-- .slides --><div class="slides displaynone"><figure><a href="http://advert360.com.au" title="360 Degree Virual Tour" ><img alt="360 Degree Virual Tour" src="http://www.vtcs.com.au/wp-content/uploads/main_slider_3d.png" ></a></figure><div class="container">
+				<article class="featured-text"><div class="featured-title"><a href="http://advert360.com.au" title="360 Degree Virual Tour" >360 Degree Virual Tour</a></div><!-- .featured-title --><div class="featured-content">Allow customers to easily explore your property developments with 3D virtual tour.</div><!-- .featured-content --></article><!-- .featured-text --></div></div><!-- .slides --></div>				
+		<nav id="controllers" class="clearfix">
+		</nav><!-- #controllers --></section><!-- .featured-slider --></header>
+<div id="main">
+<div class="container clearfix">  <div id="content"><section id="interface_service_widget-3" class="widget widget_service"> 			<div class="column clearfix">
+ 				 				<div class="one-fourth">
+ 					<div class="service-item clearfix">
+ 						<div class="service-icon"><img width="100" height="100" src="http://www.vtcs.com.au/wp-content/uploads/icon-11-100x100.png" class="attachment-icon size-icon wp-post-image" alt="" /></div> 						<h3 class="service-title">Managed IT services  <br><span style="font-size:14px;">&#8220;EXPERTS WORKING FOR YOU&#8221;</span></h3>
+ 					</div>
+ 					<!-- .service-item -->
+ 					<article>
+ 						<p>Our specialists provide Windows server installation and Server monitoring for maximum server uptime and manage your workstations related IT issues. Our qualified staff who has 10 years..</p>
+ 					</article>
+ 					 					<a class="more-link" title="Managed IT services  &#8220;EXPERTS WORKING FOR YOU&#8221;" href="http://www.vtcs.com.au/it-supports/server-maintenance/">
+ 						Read more</a>
+ 						 					</div>
+ 					<!-- .one-fourth -->
+ 					 					 				<div class="one-fourth">
+ 					<div class="service-item clearfix">
+ 						<div class="service-icon"><img width="100" height="100" src="http://www.vtcs.com.au/wp-content/uploads/icon-10-100x100.png" class="attachment-icon size-icon wp-post-image" alt="" /></div> 						<h3 class="service-title">Cloud Solutions <br><span style="font-size:14px;">&#8220;Office 365/Google Apps&#8221;</span></h3>
+ 					</div>
+ 					<!-- .service-item -->
+ 					<article>
+ 						<p>Office 365 and G Suite are a suite of productivity tools that let you perform common business tasks &#8216;in the cloud&#8217;. Both allow you to create documents, spreadsheets and presentations and collaborate &#8230;</p>
+ 					</article>
+ 					 					<a class="more-link" title="Cloud Solutions &#8220;Office 365/Google Apps&#8221;" href="http://www.vtcs.com.au/it-supports/it-supports-2/">
+ 						Read more</a>
+ 						 					</div>
+ 					<!-- .one-fourth -->
+ 					 					 				<div class="one-fourth clearfix-half">
+ 					<div class="service-item clearfix">
+ 						<div class="service-icon"><img width="100" height="100" src="http://www.vtcs.com.au/wp-content/uploads/icon-9-100x100.png" class="attachment-icon size-icon wp-post-image" alt="" /></div> 						<h3 class="service-title">IT Consultancy  <br><span style="font-size:14px;">&#8220;Leave it to the experts&#8221;</span></h3>
+ 					</div>
+ 					<!-- .service-item -->
+ 					<article>
+ 						<p>Our consultants provide system assessments, design IT networks and IT Solutions such as Cloud services(eg: Google business apps, Office 365), Console Gateway, LEAP, MYOB, Quickbook for small and&#8230;</p>
+ 					</article>
+ 					 					<a class="more-link" title="IT Consultancy  &#8220;Leave it to the experts&#8221;" href="http://www.vtcs.com.au/it-supports/it-consultancy/">
+ 						Read more</a>
+ 						 					</div>
+ 					<!-- .one-fourth -->
+ 					 					 				<div class="one-fourth">
+ 					<div class="service-item clearfix">
+ 						<div class="service-icon"><img width="100" height="100" src="http://www.vtcs.com.au/wp-content/uploads/icon-15-100x100.png" class="attachment-icon size-icon wp-post-image" alt="" /></div> 						<h3 class="service-title">Computer Sales &#038; Repairs<br><span style="font-size:14px;">&#8220;Dedicated support Ever&#8221;</span></h3>
+ 					</div>
+ 					<!-- .service-item -->
+ 					<article>
+ 						<p>We are highly specialising in small and medium businesses to deliver desktop support services as serviced to Windows, email and network configuration, Server and application support, Virus protection &#8230;</p>
+ 					</article>
+ 					 					<a class="more-link" title="Computer Sales &#038; Repairs&#8220;Dedicated support Ever&#8221;" href="http://www.vtcs.com.au/it-supports/desktop-support/">
+ 						Read more</a>
+ 						 					</div>
+ 					<!-- .one-fourth -->
+ 					 					 				<div class="one-fourth clearfix-half clearfix-fourth">
+ 					<div class="service-item clearfix">
+ 						<div class="service-icon"><img width="100" height="100" src="http://www.vtcs.com.au/wp-content/uploads/icon-13-100x100.png" class="attachment-icon size-icon wp-post-image" alt="" /></div> 						<h3 class="service-title">Data Backup &#038; Recovery <br><span style="font-size:14px;">&#8220;Your data is your business&#8221;</span></h3>
+ 					</div>
+ 					<!-- .service-item -->
+ 					<article>
+ 						<p>We provide Data Backed up regularly and secure against any potential threats such as Local backup, Remote/Online backup, Reliable data recovery. Prevention is better than cure. You can get 12-hour rapid&#8230;</p>
+ 					</article>
+ 					 					<a class="more-link" title="Data Backup &#038; Recovery &#8220;Your data is your business&#8221;" href="http://www.vtcs.com.au/it-supports/data-recovery/">
+ 						Read more</a>
+ 						 					</div>
+ 					<!-- .one-fourth -->
+ 					 					 				<div class="one-fourth">
+ 					<div class="service-item clearfix">
+ 						<div class="service-icon"><img width="100" height="100" src="http://www.vtcs.com.au/wp-content/uploads/icon-71-100x100.png" class="attachment-icon size-icon wp-post-image" alt="" /></div> 						<h3 class="service-title">WEBSITE Design &#038; SEO<br><span style="font-size:14px;">&#8220;Empower online identity&#8221;</span></h3>
+ 					</div>
+ 					<!-- .service-item -->
+ 					<article>
+ 						<p>We provide website design and development with 10 years experiences staff including Hosting Service(Domain, Email, Relocation), Ongoing Technical Support, E-Commerce, Social-Marketing&#8230;</p>
+ 					</article>
+ 					 					<a class="more-link" title="WEBSITE Design &#038; SEO&#8220;Empower online identity&#8221;" href="http://www.vtcs.com.au/web-design/website-development/">
+ 						Read more</a>
+ 						 					</div>
+ 					<!-- .one-fourth -->
+ 					 					 				<div class="one-fourth clearfix-half">
+ 					<div class="service-item clearfix">
+ 						<div class="service-icon"><img width="100" height="100" src="http://www.vtcs.com.au/wp-content/uploads/icon-14-100x100.png" class="attachment-icon size-icon wp-post-image" alt="" /></div> 						<h3 class="service-title">Facebook Wi-Fi Marketing <br><span style="font-size:14px;">&#8220;No Monthly Fee&#8221;</span></h3>
+ 					</div>
+ 					<!-- .service-item -->
+ 					<article>
+ 						<p>Facebook Wi-Fi has helped facilitate our free Wi-Fi service while also adding social value online. Our online engagement has increased significantly with more check-ins, and our fan count on our Pages &#8230;</p>
+ 					</article>
+ 					 					<a class="more-link" title="Facebook Wi-Fi Marketing &#8220;No Monthly Fee&#8221;" href="http://www.vtcs.com.au/web-design/web-advnanced-seo/">
+ 						Read more</a>
+ 						 					</div>
+ 					<!-- .one-fourth -->
+ 					 					 				<div class="one-fourth">
+ 					<div class="service-item clearfix">
+ 						<div class="service-icon"><img width="100" height="100" src="http://www.vtcs.com.au/wp-content/uploads/icon-3d-100x100.png" class="attachment-icon size-icon wp-post-image" alt="" /></div> 						<h3 class="service-title">3D Virtual Tour<br><span style="font-size:14px;">&#8220;3D Real Estate Marketing&#8221;</span></h3>
+ 					</div>
+ 					<!-- .service-item -->
+ 					<article>
+ 						<p>What is 3D Virtual Tour? A 3D virtual tour is a complete 360-degree view of a space. The customers can feel as if they’re standing within a space, and they can control their movement within the area. They can look up&hellip; </p>
+ 					</article>
+ 					 					<a class="more-link" title="3D Virtual Tour&#8220;3D Real Estate Marketing&#8221;" href="http://www.vtcs.com.au/3d-virtual-tour/">
+ 						Read more</a>
+ 						 					</div>
+ 					<!-- .one-fourth -->
+ 					 					 				</div>
+ 				<!-- .column --> 
+ 				</section><section id="interface_promobox_widget-2" class="widget widget_promotional_bar clearfix"><div class="promotional-text">Get your IT systems to maximise productivity
+ <span> Take a look at our work, learn more about us or simply get in touch. </span> </div> <a class="call-to-action" href="http://www.vtcs.com.au/newvtcs/contact/" title="contact us">contact us</a>
+		</section><section id="interface_recent_work_widget-2" class="widget widget_recent_work"><div class="column clearfix"><div class="one-fourth"><h1 class="widget-title">Recent Work</h1> 		<p>VTEQ Computer Solutions as a leading Brisbane and Gold Coast in Australia IT Solutions provider with over 7 years experience, we provide dedicated IT support and create high quality websites at best prices.</p>
+ 		<a class="call-to-action" href="http://www.vtcs.com.au/newvtcs/portfolio/" title="Our Portfolio">Our Portfolio</a> <!-- .call-to-action --> 
+ 		</div> 		<div class="one-fourth">
+ 			<a title="Website Demo" href="http://www.vtcs.com.au/website-demo/"><img width="444" height="320" src="http://www.vtcs.com.au/wp-content/uploads/webdemo.jpg" class="attachment-gallery size-gallery wp-post-image" alt="" srcset="http://www.vtcs.com.au/wp-content/uploads/webdemo.jpg 444w, http://www.vtcs.com.au/wp-content/uploads/webdemo-300x216.jpg 300w" sizes="(max-width: 444px) 100vw, 444px" /></a> 			<h3 class="custom-gallery-title"><a href="http://www.vtcs.com.au/website-demo/" title="">Website Demo</a></h3>
+ 			<p></p>
+ 		</div>
+ 		<!-- .one-fourth -->
+ 		 		<div class="one-fourth clearfix-half">
+ 			<a title="Blog" href="http://www.vtcs.com.au/blog/"><img width="474" height="342" src="http://www.vtcs.com.au/wp-content/uploads/99-way-to-increase-wordpress-speed-and-perfomance-e1411960726793-474x342.jpg" class="attachment-gallery size-gallery wp-post-image" alt="" /></a> 			<h3 class="custom-gallery-title"><a href="http://www.vtcs.com.au/blog/" title="">Blog</a></h3>
+ 			<p></p>
+ 		</div>
+ 		<!-- .one-fourth -->
+ 		 		<div class="one-fourth">
+ 			<a title="Our Clients" href="http://www.vtcs.com.au/partner/"><img width="222" height="160" src="http://www.vtcs.com.au/wp-content/uploads/workingforyou.jpg" class="attachment-gallery size-gallery wp-post-image" alt="" /></a> 			<h3 class="custom-gallery-title"><a href="http://www.vtcs.com.au/partner/" title="">Our Clients</a></h3>
+ 			<p></p>
+ 		</div>
+ 		<!-- .one-fourth -->
+ 		 		</div></section></div><!-- #content -->  </div>
+<!-- .container -->
+</div>
+<!-- #main -->
+
+  <div id="interface_featured_image_widget-2" class="widget widget_ourclients"></div>
+<footer id="colophon" class="clearfix">
+  <div class="info-bar">
+		<div class="container clearfix"><div class="info clearfix">
+											<ul><li class="phone-number"><a title=" Call Us " href="tel:0733233232">0733233232</a></li><li class="email"><a title=" Mail Us " href="mailto:info@vtcs.com.au">info@vtcs.com.au</a></li><li class="address">Block B Suite 1 / 3 Zamia St, Sunnybank QLD 4109</li></ul>
+		</div><!-- .info --></div> <!-- .container -->
+
+	</div> <!-- .info-bar -->
+
+	<div id="site-generator">
+				<div class="container clearfix"><div class="social-profiles clearfix">
+					<ul><li class="facebook"><a href="https://www.facebook.com/vteqcs" title="VTEQ Computer Solutions - Brisbane | IT Solutions Brisbane | Web Development Brisbane | Computer Repair Brisbane on Facebook" target="_blank"></a></li>
+				</ul>
+				</div><!-- .social-profiles --><div class="copyright">Copyright &copy; 2018 <a href="http://www.vtcs.com.au/" title="VTEQ Computer Solutions &#8211; Brisbane | IT Solutions Brisbane | Web Development Brisbane | Computer Repair Brisbane" ><span>VTEQ Computer Solutions &#8211; Brisbane | IT Solutions Brisbane | Web Development Brisbane | Computer Repair Brisbane</span></a></div><!-- .copyright --></div><!-- .container -->	
+			</div><!-- #site-generator --><div class="back-to-top"><a href="#branding"> </a></div></footer>
+</div>
+<!-- .wrapper -->
+
+<style type="text/css" media="all" id="siteorigin-panels-grids-wp_footer">/* Layout 1059 */ #pg-1059-0 , #pg-1059-1 , #pg-1059-2 , #pg-1059-3 , #pl-1059 .panel-grid-cell .so-panel { margin-bottom:30px } #pgc-1059-2-0 , #pgc-1059-2-1 { width:50% } #pg-1059-2 .panel-grid-cell { float:left } #pl-1059 .panel-grid-cell .so-panel:last-child { margin-bottom:0px } #pg-1059-2 { margin-left:-15px;margin-right:-15px } #pg-1059-2 .panel-grid-cell { padding-left:15px;padding-right:15px } @media (max-width:780px){ #pg-1059-0 .panel-grid-cell , #pg-1059-1 .panel-grid-cell , #pg-1059-2 .panel-grid-cell , #pg-1059-3 .panel-grid-cell , #pg-1059-4 .panel-grid-cell { float:none;width:auto } #pgc-1059-2-0 { margin-bottom:30px } #pl-1059 .panel-grid { margin-left:0;margin-right:0 } #pl-1059 .panel-grid-cell { padding:0 }  } </style><script type='text/javascript' src='http://www.vtcs.com.au/wp-content/plugins/wp-retina-2x/js/retina.js?ver=1.3.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var spuvar = {"is_admin":"","disable_style":"","safe_mode":"","ajax_mode":"1","ajax_url":"http:\/\/www.vtcs.com.au\/wp-admin\/admin-ajax.php","ajax_mode_url":"http:\/\/www.vtcs.com.au\/?spu_action=spu_load&lang=","pid":"31","is_front_page":"1","is_category":"","site_url":"http:\/\/www.vtcs.com.au","is_archive":"","is_search":"","is_preview":"","seconds_confirmation_close":"5"};
+var spuvar_social = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.vtcs.com.au/wp-content/plugins/popups/public/assets/js/min/public-min.js?ver=1.8'></script>
+<script type='text/javascript' src='http://www.vtcs.com.au/wp-content/themes/interface-pro/js/jquery.cycle.all.min.js?ver=2.9999.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var interface_slider_value = {"transition_effect":"fade","transition_delay":"4000","transition_duration":"1000"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.vtcs.com.au/wp-content/themes/interface-pro/js/interface-slider-setting.js?ver=4.8.7'></script>
+<script type='text/javascript' src='http://www.vtcs.com.au/wp-content/themes/interface-pro/js/jquery.fancybox-1.3.4.pack.js?ver=1.3.4'></script>
+<script type='text/javascript' src='http://www.vtcs.com.au/wp-content/themes/interface-pro/js/interface-custom-fancybox-script.js?ver=4.8.7'></script>
+<script type='text/javascript' src='http://www.vtcs.com.au/wp-includes/js/wp-embed.min.js?ver=4.8.7'></script>
+</body></html>
